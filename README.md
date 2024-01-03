@@ -34,3 +34,4 @@ mkdocs serve
 
 Dokumentacija se pokrece na adresi [localhost:8000](localhost:8000)
 
+Za prikazivanje matematičkih formula koristi se [KaTeX](https://katex.org/) biblioteka, primjer upotrebe - [ovdje](https://squidfunk.github.io/mkdocs-material/reference/math/#usage)
