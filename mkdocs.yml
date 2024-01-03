@@ -57,8 +57,8 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/BHFFMMST
-      name: BHFFMMST GitHub Org
+      link: https://github.com/bhff
+      name: BHFF GitHub Org
 
 extra_css:
   - assets/css/extra.css
@@ -85,6 +85,13 @@ markdown_extensions:
   - admonition
   - footnotes
 
+extra_javascript:
+  - javascripts/katex.js 
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 #
 # Navigation
 # https://www.mkdocs.org/user-guide/configuration/#nav
