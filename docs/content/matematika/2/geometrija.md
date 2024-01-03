@@ -13,6 +13,7 @@ Da li su prave AB,CD paralelne, ako vrijedi : SA=2, AC=1,5;   SB=3, BD=2,5?
 
 #### Rješenje zadatka
 $$ SA : AC = SB : BD$$
+
 $$ 2 : 1,5 = 3 : 2,5$$
 
 $$\dfrac{4}{3}=\dfrac{6}{5}$$
