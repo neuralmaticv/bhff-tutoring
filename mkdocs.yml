@@ -99,6 +99,7 @@ nav:
           - Uvod: content/matematika/1/index.md
       - Drugi razred:
           - Uvod: content/matematika/2/index.md
+          - Geometrija: content/matematika/2/geometrija.md
       - Treći razred:
           - Uvod: content/matematika/3/index.md
       - Četvrti razred:
