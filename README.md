@@ -3,10 +3,10 @@
 ### Uputstvo za lokalno pokretanje dokumentacije
 1. Klonirati repozitorijum
 ```bash
-git clone https://github.com/BHFFMMST/python-docs.git
+git clone https://github.com/neuralmaticv/bhff-tutoring.git
 ```
 
-2. Pozicionirati se u direktorijum `python-docs`
+2. Pozicionirati se u direktorijum `bhff-tutoring`
 ```bash
 cd python-docs
 ```
